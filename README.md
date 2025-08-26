@@ -1,1 +1,3 @@
 # PasswordGenerator
+
+This is magic
